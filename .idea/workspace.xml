@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="babea969-f636-439b-b59b-ae96537126d8" name="Default Changelist" comment="" />
+    <list default="true" id="babea969-f636-439b-b59b-ae96537126d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posicione-elementos-com-flexbox-809f39a39e473c574e3c6d9d9929626f8d1352fa/css/flexbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/posicione-elementos-com-flexbox-809f39a39e473c574e3c6d9d9929626f8d1352fa/css/flexbox.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +18,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kIwgRuwl9pZoKnMcrUpERda1RT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/Viniciusalgueiro" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -35,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605401524945</updated>
-      <workItem from="1605401525975" duration="4368000" />
+      <workItem from="1605401525975" duration="10732000" />
     </task>
     <servers />
   </component>
@@ -47,5 +57,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="577" y="0" key="#HTML/0.0.1536.824@0.0.1536.824" timestamp="1605410238439" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605491472334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605491472334" />
+    <state x="455" y="310" key="Github.ShareDialog" timestamp="1605413245522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="455" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1605413245522" />
+    <state x="365" y="117" key="Github.UntrackedFilesDialog" timestamp="1605413277021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="365" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605413277021" />
   </component>
 </project>

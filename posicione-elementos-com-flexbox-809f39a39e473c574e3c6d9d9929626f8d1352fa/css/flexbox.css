@@ -3,7 +3,8 @@
     align-items: center;
     justify-content: space-between;
 }
-.cabecalhoPrincipal-nav{
+
+.cabecalhoPrincipal-nav {
     display: flex;
 }
 
@@ -23,9 +24,11 @@
 .rodapePrincipal-contatoForm {
     width: 25%;
 }
+
 .rodapePrincipal-contatoForm-fieldset {
     display: flex;
 }
+
 .rodapePrincipal-navMap-list {
     display: flex;
     flex-direction: column;
@@ -33,19 +36,89 @@
     height: 250px;
 }
 
-.conteudoPrincipal-cursos{
+.conteudoPrincipal-cursos {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 
-.conteudoPrincipal-cursos-link{
+.conteudoPrincipal-cursos-link {
     width: 31.3%;
     margin: 1%;
 }
-.rodapePrincipal-navMap-link:nth-child(4n){
+
+
+.rodapePrincipal-navMap-link:nth-child(4n) {
     margin-right: 0;
 }
-.rodapePrincipal-navMap-link:nth-child(4n+1){
+
+.rodapePrincipal-navMap-link:nth-child(4n+1) {
     margin-right: 0;
+}
+.videoSobre .container{
+    display: flex;
+}
+.videoSobre-sobre {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+}
+.videoSobre-sobre-list{
+    flex-grow: 1;
+}
+.videoSobre-video{
+    flex-grow: 1;
+}
+.cabecalhoPrincipal-nav {
+    flex-direction: column;
+}
+
+
+@media (max-width: 768px) {
+    .cabecalhoPrincipal .container {
+        flex-direction: column;
+        align-items: initial;
+        text-align: center;
+    }
+
+    .conteudoPrincipal-cursos-link {
+        width: 100%;
+    }
+
+    .conteudoPrincipal-cursos {
+        flex-direction: column;
+    }
+
+    .rodapePrincipal-navMap-list {
+        height: auto;
+    }
+
+    .rodapePrincipal-patrocinadores .container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .rodapePrincipal-contatoForm {
+        width: 100%;
+    }
+
+    .rodapePrincipal-patrocinadores-list {
+        margin: 0;
+        width: 100%;
+    }
+
+    .rodapePrincipal-contatoForm-fieldset {
+        justify-content: center;
+    }
+    .cabecalhoPrincipal-nav-link-app{
+        order: -1;
+    }
+    .videoSobre .container{
+        flex-direction: column;
+    }
+    .videoSobre-video{
+        margin: auto;
+        flex-shrink: 2;
+    }
 }
